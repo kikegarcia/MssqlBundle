@@ -6,7 +6,7 @@ Add the **realestate/mssql-bundle** into **composer.json**
 
     "require": {
         ....
-        "realestateconz/mssql-bundle": "master-dev"
+        "realestateconz/mssql-bundle": "dev-azure"
     },
 
 And run
